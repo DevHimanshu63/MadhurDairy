@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Pure Goodness, Naturally – Madhur Dairy",
+    "paragraph": "At Madhur Dairy, we bring you the finest quality milk, ghee, and dairy products, crafted with care and passion. Sourced from healthy, happy cows and produced with traditional methods, our products are a wholesome choice for your family. Experience the richness of purity in every drop – because we believe in dairy that's as natural as it gets."
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Premium Dairy Products",
+      "text": "We offer a wide range of dairy products including fresh milk, ghee, butter, curd, paneer, and more. Each product is carefully crafted to deliver the natural taste and health benefits you can trust. Our range is perfect for your everyday cooking, baking, and nutritional needs."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Bulk Supply for Businesses",
+      "text": "Whether you’re a restaurant, catering service, or a retail store, Madhur Dairy provides reliable bulk supply options. We work closely with businesses to deliver our dairy products in large quantities, ensuring freshness and timely delivery every time."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Custom Orders & Special Requirements",
+      "text": "We understand that every customer is unique. If you have specific needs, such as dairy-free alternatives or specialized products, we are happy to accommodate custom orders. Let us know your preferences, and we’ll make sure you get the perfect product."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Home Delivery Service",
+      "text": "Enjoy the convenience of fresh, quality dairy delivered right to your doorstep. We offer a hassle-free home delivery service so you can have your Madhur Dairy products wherever you are, at your convenience."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Partnering with Local Farmers",
+      "text": "We pride ourselves on supporting local farmers who help us maintain the quality of our products. By working with trusted partners, we ensure that every drop of milk and every ounce of ghee meets our stringent quality standards."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Quality Assurance & Certifications",
+      "text": "At Madhur Dairy, quality is our priority. Our products are regularly tested for purity and safety to ensure they meet the highest industry standards. We hold certifications and adhere to stringent hygiene protocols so that you can trust every product we offer."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "100% Pure & Natural",
+      "text": "Enjoy the taste of purity with every product. Our milk is sourced from healthy cows, ensuring that each drop is rich, nutritious, and free from additives."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Traditional Methods, Modern Quality",
+      "text": "We blend age-old techniques with modern hygiene standards to craft products like our ghee, ensuring unmatched flavor and health benefits."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Packed with Nutrients",
+      "text": "Our dairy products are packed with essential nutrients, promoting health and well-being for you and your family."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Eco-friendly & Sustainable",
+      "text": "We care for the planet as much as we care for your health. Our sustainable farming practices and eco-friendly packaging reflect our commitment to the environment."
+    }
+  ]
+}
